@@ -33,3 +33,7 @@ main{
     justify-self: center;
     border-radius: 7.5px;
 }
+header{
+    display: flex;
+    justify-self: center;
+}
