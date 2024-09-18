@@ -1,10 +1,12 @@
 body{
      background: #cfcfcf;
+     display: flex;
 }
 main{
     display: flex ;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     height: 700px;
     width: 100%;
 }
